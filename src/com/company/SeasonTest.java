@@ -10,6 +10,8 @@ package com.company;
 二  定义枚举类
 方式一： jdk 5.0 之前自定义
 方式二 5.0 可以使用enum 关键字定义
+
+
  */
 public class SeasonTest {
 
