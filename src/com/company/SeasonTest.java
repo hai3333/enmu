@@ -10,6 +10,12 @@ package com.company;
 二  定义枚举类
 方式一： jdk 5.0 之前自定义
 方式二 5.0 可以使用enum 关键字定义
+三 常用方法
+        vlaues()  返回枚举类型对象的数组
+        valueOf(String str) 可以把一个字符串转化为枚举类对象 要求字符必须是枚举类对象
+        toString ()返回当前枚举类对象常量名称
+
+ 四 使用enmu 关键字定义时间接口
 
 
  */
